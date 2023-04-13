@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'DIN';
+    src: url('./DINRegularAlternate.ttf')
+}
+
+@font-face {
+    font-family: 'YouSheBiaoTiHei';
+    src: url('./RuiZiZhenYanTiMianFeiShangYong.ttf')
+}
+
+@font-face {
+    font-family: 'YouSheBiaoTiHeiT';
+    src: url('./Youshebiaoti.ttf')
+}
+@font-face {
+    font-family: 'Digital';
+    src: url('./DS-DIGIB.ttf');
+}
+@font-face {
+    font-family: 'Digibtal';
+    src: url('./DS-DIGI.ttf');
+}

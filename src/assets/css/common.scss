@@ -1,0 +1,81 @@
+/**
+* flex布局
+**/
+.g-flex {
+	display: flex;
+}
+.g-flex-1 {
+	flex: 1
+}
+.g-flex-cc {
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+.g-jc-sb {
+	justify-content: space-between;
+}
+.g-jc-c {
+	justify-content: center;
+
+}
+.g-fw-n {
+	flex-wrap: nowrap;
+}
+.g-fw-w {
+	flex-wrap: wrap;
+}
+.g-fw-wr {
+	flex-wrap: wrap-reverse;
+}
+/**
+* 颜色
+**/
+.g-c-white {
+	color: #fff;
+}
+.g-c-blue {
+	color: #00c9ff;
+}
+.g-c-yellow {
+	color: #ff9900;
+}
+/**
+* 间距
+**/
+.g-m-t-10 {
+	margin-top: 10px;
+}
+.g-m-lr-5 {
+	margin: 0 5px;
+}
+/**
+* 文字
+**/
+.g-fs-14 {
+font-size: 14px;
+}
+  .g-fs-16 {
+	font-size: 16px;
+  }
+  .g-fs-18 {
+	font-size: 18px;
+  }
+  .g-fs-24 {
+	font-size: 24px;
+  }
+  .g-fs-30 {
+	font-size: 30px;
+  }
+  .g-weight-bold {
+	  font-weight: bold;
+  }
+  .g-weight-500 {
+	font-weight: 500;
+}
+.g-tr {
+	text-align: right;
+}
+.g-tc {
+	text-align: center;
+}
